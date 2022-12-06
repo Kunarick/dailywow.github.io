@@ -1,4 +1,4 @@
-[![DailyWoW](./includes/img/dailyark.png)](https://dailywow.github.io)
+[![DailyWoW](./includes/img/wow-daily.png)](https://dailywow.github.io)
 # DailyWoW - Dailies and Weeklies for World of Warcraft
 
 ## Features
